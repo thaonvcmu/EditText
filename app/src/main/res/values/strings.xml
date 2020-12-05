@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="example_edittext">Example showing edit text</string>
+    <string name="show_the_text">Show the text </string>
+    <string name="enter_text">Enter text</string>
+</resources>
